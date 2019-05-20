@@ -6,7 +6,7 @@
 
 # BIlling System based on image segmentation
 
-> Subtitle or Short Description Goes Here
+> Tools for image dataset preparation
 
 > ideally one sentence
 
