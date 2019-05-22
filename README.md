@@ -40,3 +40,4 @@ Idea: idea is to use a deep neural network approach for various object detection
 Future- Extension: This project can be extended with a sophisticated network of high resolution cameras to evaluate the price of objects as soon the customer picks or drops a product item from certain area. Which makes the whole shopping experience for the customer smooth. While in parallel the same system can recognize the different customers and help them with their shopping experience.
 
 
+Note: Shown products in images and trademark are the property of their respective companies. these images are used for experiment purpose. 
