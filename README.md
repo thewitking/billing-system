@@ -108,7 +108,7 @@ Therefore, this formulation addresses the key aspects to the problem.
 
 
 
-Future- Extension: This project can be extended with a sophisticated network of high resolution cameras to evaluate the price of objects as soon the customer picks or drops a product item from certain area. Which makes the whole shopping experience for the customer smooth. While in parallel the same system can recognize the different customers and help them with their shopping experience.
+**Future- Extension:** This project can be extended with a sophisticated network of high resolution cameras to evaluate the price of objects as soon the customer picks or drops a product item from certain area. Which makes the whole shopping experience for the customer smooth. While in parallel the same system can recognize the different customers and help them with their shopping experience.
 
 
-Note: Shown products in images and trademark are the property of their respective companies. these images are used for experiment purpose. 
+**Note:** Shown products in images and trademark are the property of their respective companies. these images are used for experiment purpose. 
