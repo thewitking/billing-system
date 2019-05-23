@@ -29,7 +29,7 @@ As per shown result we can see that our inference model trained on retinanet mod
 
 **Description**
 
-*Products in Image dataset*
+*Description about Products in Image dataset*
 
 >Consider that a store has 6 different products as shown below.
 
