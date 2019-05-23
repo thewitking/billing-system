@@ -31,7 +31,7 @@ As per shown result we can see that our inference model trained on retinanet mod
 
 *Description about Products in Image dataset*
 
->Consider that a store has 6 different products as shown below.
+>Consider that abc xyz store has 6 different products as shown below that are used for training retinanet model for product image segmentation.
 
 <img src="https://raw.githubusercontent.com/thewitking/billing-system/master/etc/images/product.png" title="Result sample" align="center" alt="products">
 
