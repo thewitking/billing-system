@@ -33,7 +33,7 @@ As per shown result we can see that our inference model trained on retinanet mod
 
 
 
-**Description**
+
 
 *Description about Products in Image dataset*
 
@@ -42,6 +42,7 @@ As per shown result we can see that our inference model trained on retinanet mod
 <img src="https://raw.githubusercontent.com/thewitking/billing-system/master/etc/images/product.png" title="Result sample" align="center" alt="products">
 
 
+***Description***
 
 **Formulation:**
 The billing system designed solves the problem of reducing the time spent standing in queue, be it register or self-checkout. Statistically, by multiple surveys, it has been identified that the average wait time at a store like Target or Trader Joe’s during a busy weekday is anywhere between 8-10 minutes and requires assistance on multiple levels to guide customers through queues, thereby leading to more employment intake. Further, the change in customer behaviour has been noticed to change into frustration (primarily due to impatience) as well as customer return numbers tend to decrease due to the increased wait times at all types of stores. As per a survey done at a reliable retailer, 43% of its consumers said long lines would affect their decision to shop at a retailer in the future. 
