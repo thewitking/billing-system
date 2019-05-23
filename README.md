@@ -14,6 +14,12 @@ The project we implemented is Real time object detection based billing system. W
 
 **Idea:** idea is to use a deep neural network approach for various object detection so to evaluate price of all the items. And to use regression analysis for predicting the inventory suggestions.
 
+**Approach:**
+we consider that at very basic level image segmentation is required to detect different products available in that image. And once all the products are recognized we can use the price dataset to evaluate the complete price.
+
+<img src="https://raw.githubusercontent.com/thewitking/billing-system/master/etc/images/approach.png" title="Result sample" alt="sample output">
+
+
 *Result sample of product inference:*
 <img src="https://raw.githubusercontent.com/thewitking/billing-system/master/etc/images/sample_output.png" title="Result sample" alt="sample output">
 
